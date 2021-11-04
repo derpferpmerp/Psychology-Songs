@@ -38,9 +38,8 @@
 	border: 2px solid white;
 	display: flex;
 	flex: 1;
-	text-align: center;
+	align-items: center;
 	padding: 100px 0px;
-	height: max-content;
 }
 
 html {

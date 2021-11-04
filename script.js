@@ -12,6 +12,12 @@ var songData = {
 		"CONTAINER": "EatContainer",
 		"NAME": "Eat It Up",
 	},
+	"Changes": {
+		"TRACK": "ChangesAudio",
+		"CONTR": "ChangesControl",
+		"CONTAINER": "ChangesContainer",
+		"NAME": "Changes",
+	},
 }
 
 for(var songName in songData) {
