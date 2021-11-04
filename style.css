@@ -1,4 +1,7 @@
-
+@font-face{
+	font-family: 'Google Sans';
+	src: url('GoogleSans-Regular.woff2'), url('GoogleSans-Regular.woff2') format('woff2');
+}
 :root {
 	--inside: transparent 98%;
 	--outside: white 100%;
