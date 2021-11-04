@@ -18,6 +18,12 @@ var songData = {
 		"CONTAINER": "ChangesContainer",
 		"NAME": "Changes",
 	},
+	"Rock Bottom": {
+		"TRACK": "RBAudio",
+		"CONTR": "RBControl",
+		"CONTAINER": "RBContainer",
+		"NAME": "Rock Bottom",
+	},
 }
 
 for(var songName in songData) {

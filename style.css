@@ -74,9 +74,17 @@ html {
 #Data {
 	padding: 20px 20px;
 }
+
+
+
+
+
+
 #player-container #play-pause, 
 #YungContainer #YungBratzControl,
-#EatContainer #EatItUpControl {
+#EatContainer #EatItUpControl,
+#ChangesContainer #ChangesControl,
+#RBContainer #RBControl {
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;
@@ -112,6 +120,10 @@ html {
 	align-items: center;
 	border: none;
 }
+
+
+
+
 .play {
   background-image: var(--playIcon);
 }
