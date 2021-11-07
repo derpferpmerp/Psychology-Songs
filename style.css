@@ -87,7 +87,9 @@ html {
 #YungContainer #YungBratzControl,
 #EatContainer #EatItUpControl,
 #ChangesContainer #ChangesControl,
-#RBContainer #RBControl {
+#RBContainer #RBControl,
+#TTContainer #TTControl,
+#CloserContainer #CloserControl {
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;

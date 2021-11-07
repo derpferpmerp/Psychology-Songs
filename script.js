@@ -30,6 +30,12 @@ var songData = {
 		"CONTAINER": "TTContainer",
 		"NAME": "Tip Toe",
 	},
+	"Closer": {
+		"TRACK": "CloserAudio",
+		"CONTR": "CloserControl",
+		"CONTAINER": "CloserContainer",
+		"NAME": "Closer",
+	},
 }
 
 for(var songName in songData) {
@@ -54,7 +60,7 @@ for(var songName in songData) {
 	
 	tr.addEventListener("ended", function() {
 		cont.className = "play";
-		console.log(`${songName} Finished Playing`);
+		console.log(`${name} Finished Playing`);
 	});
 }
 
