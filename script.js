@@ -36,6 +36,12 @@ var songData = {
 		"CONTAINER": "CloserContainer",
 		"NAME": "Closer",
 	},
+	"The One": {
+		"TRACK": "TheOneAudio",
+		"CONTR": "TheOneControl",
+		"CONTAINER": "TheOneContainer",
+		"NAME": "The One Who Got Away",
+	}
 }
 
 for(var songName in songData) {

@@ -89,7 +89,8 @@ html {
 #ChangesContainer #ChangesControl,
 #RBContainer #RBControl,
 #TTContainer #TTControl,
-#CloserContainer #CloserControl {
+#CloserContainer #CloserControl,
+#TheOneContainer #TheOneControl {
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;
