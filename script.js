@@ -24,6 +24,12 @@ var songData = {
 		"CONTAINER": "RBContainer",
 		"NAME": "Rock Bottom",
 	},
+	"Tip Toe": {
+		"TRACK": "TTAudio",
+		"CONTR": "TTControl",
+		"CONTAINER": "TTContainer",
+		"NAME": "Tip Toe",
+	},
 }
 
 for(var songName in songData) {
